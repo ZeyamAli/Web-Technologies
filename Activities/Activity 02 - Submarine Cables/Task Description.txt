@@ -1,0 +1,2 @@
+- Go to https://www.submarinecablemap.com/ and have a look at the cables that are connecting the world.
+- Find out the cables that are connecting your region/country with the World (internet).

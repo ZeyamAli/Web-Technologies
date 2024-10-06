@@ -1,0 +1,5 @@
+- Create a folder on your desktop
+- Open the folder in VS Code
+- Create a new HTML file in Folder (e.g. index.html)
+- Copy the following code into the file
+- Preview the file (using Live Preview Extension of VS Code)

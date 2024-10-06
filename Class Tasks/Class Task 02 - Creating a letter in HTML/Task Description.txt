@@ -1,0 +1,28 @@
+Write HTML for the following letter and display it in the right formatting (as displayed):
+Jameel Shah,
+Model Town, Block Z,
+Lahore, Punjab.
+jameel@dummy.com
+0300-XXX00XX
+June 26, 2024
+
+Dr. Mansoor Waqas
+Principal
+ABC College,
+Wapda Town, Block X,
+Lahore, Punjab
+
+Dear Dr. Mansoor,
+
+I hope this letter finds you well. I am writing to express my growing concern about the security measures currently in place at our college. As a dedicated student, I deeply value the safe and supportive environment that our institution strives to provide. However, recent incidents on campus have raised significant apprehensions among the student body regarding our overall security.
+
+Over the past few weeks, there have been reports of unauthorized individuals gaining access to our campus facilities. Additionally, several students, including myself, have observed areas around the campus where lighting is inadequate, making these spots potentially dangerous during the evening hours. These issues have understandably led to a heightened sense of vulnerability among students.
+
+I kindly request a meeting with you or the appropriate security personnel to discuss these concerns and potential solutions further. I am confident that, together, we can create a more secure and reassuring environment for everyone at college.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Yours sincerely,
+
+Jameel Shah,
+20FSCM2002

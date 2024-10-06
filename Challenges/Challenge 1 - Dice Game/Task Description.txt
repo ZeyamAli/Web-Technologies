@@ -1,0 +1,9 @@
+Dice Game using JS and DOM Manipulation
+
+What have you studied (before assignment of this task)?
+
+- I have studied JavaScript and DOM Manipulation.
+
+What you were supposed to do (actual task)?
+
+- I was supposed to create a Dice Game using JavaScript and DOM Manipulation.

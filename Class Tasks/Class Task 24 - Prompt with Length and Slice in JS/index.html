@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text Prompt with Length + Slice Validation</title>
+  </head>
+  <body>
+    <script>
+      let desc = prompt('Enter your Text: ');
+
+      if (desc.length > 100) {
+        alert(
+          `You have entered ${
+            desc.length
+          } characters. You have exceeded the limit of 100 characters.
+
+          Your text is: ${desc.slice(0, 100)}`
+        );
+      } else {
+        alert(
+          `You have entered ${desc.length} characters. You have ${
+            100 - desc.length
+          } characters remaining.
+
+          Your text is: ${desc.slice(0, 100)}`
+        );
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+Project: Mondrians Style Grid CSS
+
+What have you studied (before assignment of this task)?
+
+- I have studied CSS Grid and its properties.
+
+What you were supposed to do (actual task)?
+
+- Create a Mondrian's Style Grid using CSS Grid.

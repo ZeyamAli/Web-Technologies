@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text Prompt with Length Validation</title>
+  </head>
+  <body>
+    <script>
+      let desc = prompt('Enter your Text: ');
+
+      if (desc.length > 240) {
+        alert(
+          'You have entered ' +
+            desc.length +
+            ' characters. You have exceeded the limit of 240 characters.'
+        );
+      } else {
+        alert(
+          'You have entered ' +
+            desc.length +
+            ' characters. You have ' +
+            (240 - desc.length) +
+            ' characters remaining.'
+        );
+      }
+    </script>
+  </body>
+</html>

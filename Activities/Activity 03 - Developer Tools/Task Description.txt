@@ -1,0 +1,5 @@
+- Open Google Chrome
+- Visit https://www.google.com
+- Right Click on “Google Search” Button
+- Select “Inspect” Menu Button
+- Using the “Developer Tools” of Google Chrome, change the text of the Button

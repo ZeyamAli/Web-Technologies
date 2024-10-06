@@ -1,0 +1,2 @@
+- Go to https://www.nslookup.io/ and find out the IP address of your favourite website.
+- Copy the IP address and try to access the website using IP Address (instead of the domain name)

@@ -1,0 +1,9 @@
+CSS Grid Utilization
+
+What have you studied (before assignment of this task)?
+
+- I have studied CSS Grid and its properties.
+
+What you were supposed to do (actual task)?
+
+- I was supposed to perform Exercises on CSS Grid.

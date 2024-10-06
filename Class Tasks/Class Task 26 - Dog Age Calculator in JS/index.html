@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dog Age Calculation</title>
+  </head>
+  <body>
+    <script>
+      let dogAge = prompt("Enter dog's age:");
+      let humanAge;
+
+      if (dogAge <= 2) {
+        humanAge = dogAge * 10.5;
+      } else {
+        humanAge = 21 + (dogAge - 2) * 4;
+      }
+
+      console.log(`The dog's age in human years is ${humanAge}.`);
+    </script>
+  </body>
+</html>
